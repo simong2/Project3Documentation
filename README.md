@@ -1,6 +1,3 @@
-# Project3Documentation
-
-
 ---
 title: "The Jackbox Party Pack 3"
 permalink: /
