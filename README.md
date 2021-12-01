@@ -18,7 +18,7 @@ You can download from Steam [here](https://store.steampowered.com/app/434170/The
 
 When you open up the application, you will be presetned with a screen like this:
 
-![](jacboxpartypack3.jpg.webp)
+![](https://cdn.akamai.steamstatic.com/steam/apps/434170/capsule_616x353.jpg?t=1597699274)
 
 Once you are passed the main screen (shown above) you will be given the choice to select from one of the five games!
 
@@ -67,7 +67,7 @@ Each game has its own limit of how many people can join. With that being said, i
 
 The waiting screen should look as follows:
 
-![](jackboxwaitingroom.jpg.png)
+![](https://jackboxgames.b-cdn.net/wp-content/uploads/2019/06/tmp-2.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ The waiting screen should look as follows:
 * Extended Timers: Yes
 * Ability to Start Game From Controller: Yes
 
-![](quiplash2-1.jpg.webp)
+![](https://jackboxgames.b-cdn.net/wp-content/uploads/2019/06/quiplash2-1.jpg)
 
 ## **Trivia Murder Party** 
 * Player Count: 1-8 players
@@ -95,7 +95,7 @@ The waiting screen should look as follows:
 * Extended Timers: Yes
 * Ability to Start Game From Controller: Yes
 
-![](jackmurder1.jpg.webp)
+![](https://jackboxgames.b-cdn.net/wp-content/uploads/2019/06/tmp-1.jpg)
 
 ## **Tee K.O.** 
 * Player Count: 3-8 players
@@ -117,7 +117,7 @@ The waiting screen should look as follows:
 * Extended Timers: Yes
 * Ability to Start Game From Controller: Yes
 
-![](jackguess.jpg.webp)
+![](https://jackboxgames.b-cdn.net/wp-content/uploads/elementor/thumbs/guesspionage-3-o9sw2xfsxdvvu738y9cemhujerdvsc3jv8pka9zq4g.jpg)
 
 ## **Fakin' it**
 * Player Count: 3-6 players
@@ -128,7 +128,7 @@ The waiting screen should look as follows:
 * Extended Timers: No
 * Ability to Start Game From Controller: Yes
 
-![](jackfakin.jpg.webp)
+![](https://v1cdn.destructoid.com/fakin%2520splash-noscale.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------
 
