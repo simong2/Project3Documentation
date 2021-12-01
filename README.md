@@ -106,7 +106,7 @@ The waiting screen should look as follows:
 * Extended Timers: Yes
 * Ability to Start Game From Controller: Yes
 
-![](jackteeko.jpg.webp)
+![](https://jackboxgames.b-cdn.net/wp-content/uploads/2019/06/TJBPP3_PS4Game_WNG_Screen08.jpg)
 
 ## **Guesspionage**
 * Player Count: 2-8 players
