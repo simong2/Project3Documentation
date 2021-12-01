@@ -128,7 +128,7 @@ The waiting screen should look as follows:
 * Extended Timers: No
 * Ability to Start Game From Controller: Yes
 
-![](https://v1cdn.destructoid.com/fakin%2520splash-noscale.jpg)
+![](https://jackboxgames.b-cdn.net/wp-content/uploads/2019/06/PP3Tile_FakinIt.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------
 
